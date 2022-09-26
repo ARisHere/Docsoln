@@ -1,0 +1,11 @@
+git commit -m "git your messege here"
+
+git add . 
+
+git push
+
+
+git pull
+
+git clone URL
+
