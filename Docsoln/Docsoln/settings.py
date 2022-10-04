@@ -84,6 +84,8 @@ DATABASES = {
         'USER': 'ARisHERE',
 
         'PASSWORD': 'admin',
+        
+        'HOST': 'localhost'
 
     }
 
