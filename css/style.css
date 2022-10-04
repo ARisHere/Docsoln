@@ -295,7 +295,7 @@ section:nth-child(even) {
     margin-left: .5rem;
 }
 
-.footer .box-container {
+hea .footer .box-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
     gap: 2rem;

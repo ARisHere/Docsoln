@@ -1,5 +1,5 @@
 """
-WSGI config for docsoln project.
+WSGI config for Docsoln project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'docsoln.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Docsoln.settings')
 
 application = get_wsgi_application()
