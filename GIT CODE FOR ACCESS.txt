@@ -1,11 +1,16 @@
-git commit -m "git your messege here"
+>>jokhn project er update github a push korte hbe tokhn ai command gulo serially follow korbi.
 
-git add . 
+git add .
+
+git commit -m "git your messege here"
 
 git push
 
 
+>> jokhn kaj korte bosbi tokhn age project folder a ase ai command ta dibi git bash a
 git pull
 
-git clone URL
+
+>>Jokhn kno project copy kore github theke Directory te ante hbe tokhn ai command use korbi
+git clone <github repo URL>
 
