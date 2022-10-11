@@ -17,3 +17,7 @@ def ambulance(request):
 def login(request):
     
     return render (request, 'Login And Resistration.html')
+
+def medicine(request):
+    
+    return render (request, 'medicine.html')
