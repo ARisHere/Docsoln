@@ -21,3 +21,7 @@ def login(request):
 def medicine(request):
     
     return render (request, 'medicine.html')
+
+def blooddonnor(request):
+    
+    return render (request, 'blooddoner.html')
