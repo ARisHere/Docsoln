@@ -1,29 +1,25 @@
-
-.card__container{
+.card__container {
     width: 18rem;
 }
 
-.container__box{
+.container__box {
     display: flex;
     justify-content: space-evenly;
-
-    margin-top: 5rem;
+    margin-top: 15rem;
 }
 
-.btn-lg{
+.btn-lg {
     width: 8rem;
 }
 
-.clear{
+.clear {
     clear: both;
 }
 
-.filter__btn{
+.filter__btn {
     width: 15rem;
 }
 
-.large__card{
+.large__card {
     width: 100ch;
 }
-
-
