@@ -25,3 +25,7 @@ def medicine(request):
 def blooddonnor(request):
     
     return render (request, 'blooddoner.html')
+
+def donnerinfo(request):
+    
+    return render (request, 'docsolin.html')
