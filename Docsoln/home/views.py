@@ -26,6 +26,14 @@ def blooddonnor(request):
     
     return render (request, 'blooddoner.html')
 
+def docprofile(request):
+    
+    return render (request, 'docprofile.html')
+
 def donnerinfo(request):
     
-    return render (request, 'docsolin.html')
+    return render (request, 'donprofile.html')
+
+def bookinfo(request):
+    
+    return render (request, 'booking.html')

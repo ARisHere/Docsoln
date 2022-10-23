@@ -11,5 +11,7 @@ urlpatterns = [
     path("login", views.login, name='login'),
     path("medicine", views.medicine, name='medicine'),
     path("blooddonnor", views.blooddonnor, name='blooddonnor'),
-    path("donnerinfo", views.donnerinfo, name='donerinfo'),
+    path("donnerinfo", views.donnerinfo, name='donnerinfo'),
+    path("docprofile", views.docprofile, name='docprofile'),
+    path("bookinfo", views.bookinfo, name='bookinfo'),
 ]
